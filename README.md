@@ -35,12 +35,12 @@ Contact: hdchris765@snu.ac.kr
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisLee02&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Man&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />
 
-교내 개발동아리 와플스튜디오
-https://github.com/wafflestudio/seminar-2021 : React 세미나 수강(완료)
-https://github.com/ChrisLee02/waffle-rookies-19.5-react-assignment-1 : React 세미나 과제(완료)
-https://github.com/wafflestudio/snugg-web : 전공지식 공유 플랫폼 SNUGG 프론트엔드 개발(진행 중)
+교내 개발동아리 와플스튜디오 <br />
+https://github.com/wafflestudio/seminar-2021 : React 세미나 수강(완료) <br />
+https://github.com/ChrisLee02/waffle-rookies-19.5-react-assignment-1 : React 세미나 과제(완료) <br />
+https://github.com/wafflestudio/snugg-web : 전공지식 공유 플랫폼 SNUGG 프론트엔드 개발(진행 중) <br />
 
-개인 공부
-https://github.com/ChrisLee02/Problem-Solving : 백준 PS 공부(재개 예정)
-https://github.com/ChrisLee02/2022-Spring-SNU-Data-Structure : 2022-1학기 자료구조 수업(진행 중, private now)
-https://github.com/ChrisLee02/2022-Spring-SNU-Computer-Programming : 2022-1학기 컴퓨터 프로그래밍 수업(진행 중, private now)
+개인 공부 <br />
+https://github.com/ChrisLee02/Problem-Solving : 백준 PS 공부(재개 예정) <br />
+https://github.com/ChrisLee02/2022-Spring-SNU-Data-Structure : 2022-1학기 자료구조 수업(진행 중, private now) <br />
+https://github.com/ChrisLee02/2022-Spring-SNU-Computer-Programming : 2022-1학기 컴퓨터 프로그래밍 수업(진행 중, private now) <br />
