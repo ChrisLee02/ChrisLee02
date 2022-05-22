@@ -1,7 +1,7 @@
 ## 안녕하세요, 이하동입니다.
 ## Hi, I'm Chris Lee.
 
-- <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/81219809/169695113-ea5ffe07-679c-4a85-87d3-95771e94e105.png" />Undergraduate student at Seoul National University 
+- Undergraduate student at Seoul National University 
 - Major in Dept. of Computer Science & Engineering
 - Double Major in Dept. of Business Administration
 
