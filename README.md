@@ -42,5 +42,5 @@ https://github.com/wafflestudio/snugg-web : 전공지식 공유 플랫폼 SNUGG 
 
 개인 공부 <br />
 https://github.com/ChrisLee02/Problem-Solving : 백준 PS 공부(재개 예정) <br />
-https://github.com/ChrisLee02/2022-Spring-SNU-Data-Structure : 2022-1학기 자료구조 수업(진행 중, private now) <br />
-https://github.com/ChrisLee02/2022-Spring-SNU-Computer-Programming : 2022-1학기 컴퓨터 프로그래밍 수업(진행 중, private now) <br />
+https://github.com/ChrisLee02/2022-Spring-SNU-Data-Structure : 2022-1학기 자료구조 수업(완료) <br />
+https://github.com/ChrisLee02/2022-Spring-SNU-Computer-Programming : 2022-1학기 컴퓨터 프로그래밍 수업(완료) <br />
