@@ -7,36 +7,28 @@
 
 #### 컴퓨터공학 기반지식을 열심히 공부하고 있습니다.
 #### 개발 및 협업 능력을 갖추어 나가고 있습니다.
-#### 낮은 자세로 배우고, 더 낮은 눈높이에서 나눕니다.
+#### 낮은 자세로 배우고, 배운 것을 겸손하게 나눕니다.
+
+#### I am diligently building a strong foundation in computer science.
+#### I am developing both technical skills and collaboration abilities.
+#### I learn with humility and share with even greater accessibility.
+
+<br />
 
 Contact: hdchris765@snu.ac.kr
 
 <br />
 
 ## Languages and Tools:
+- **Javascript/Typescript, React, Next.js**  
+  - Internship, hackathon, and project experience.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="next-js" width="26px" src="https://user-images.githubusercontent.com/81219809/169694952-95c42b69-1645-41c7-ab1f-616c1a3760ce.svg" />
-<img align="left" alt="next-js" width="26px" src="https://user-images.githubusercontent.com/81219809/169695007-9c10c585-0ce1-4942-975c-8aa394c588f4.svg" />
+- **Python, Java, Scala, Rust, C++**  
+  - Gained proficiency through university coursework.  
+  - Familiar with the syntax and basic usage of these languages.
 
+- **Git**  
+  - Experienced in version control.
 
-
-<br />
-<br />
-
----
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisLee02&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Man&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />
-
-=====================================
-,,,
-
-개인 공부 <br />
-https://github.com/ChrisLee02/Problem-Solving : 백준 PS 공부 <br />
+- **Rust, Solana**  
+  - Recently exploring and highly interested in these areas.
